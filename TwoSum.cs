@@ -8,9 +8,6 @@ namespace ExamPractice
 {
     sealed internal class TwoSum
     {
-        public TwoSum() { 
-        }
-        
         public void solveTwoSumProblem()
         {
             var num = new int[] { 2, 7, 11, 15 };
